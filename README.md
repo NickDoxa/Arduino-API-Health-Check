@@ -7,7 +7,7 @@ Required components:
 - Breadboard / Solder
 - Liquid Crystal Display (preferably I2C)
 
-##Define variables
+## Define variables
 You will need to create a `config.h` file with your defined variables for your ESP32 wifi connection:
 
 ```cpp
